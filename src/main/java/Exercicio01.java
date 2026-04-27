@@ -1,3 +1,6 @@
+// Nome: Tom Alexander
+// Matrícula: 1261933671
+
 public static int greaterThan(int firstNumber, int secondNumber) {
   return Math.max(firstNumber, secondNumber);
 }
